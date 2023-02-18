@@ -1,0 +1,1 @@
+DevOps stands for development and operations. It’s a practice that aims at merging development, quality assurance, and operations (deployment and integration) into a single, continuous set of processes.
