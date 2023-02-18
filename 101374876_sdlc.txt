@@ -1,1 +1,3 @@
 A competent DevOps lifecycle is necessary to build superior quality software through the system.
+It is a process that is practiced by the development team and operational engineers together from beginning to the final stage of the product
+
