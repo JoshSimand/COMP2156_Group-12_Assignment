@@ -1,0 +1,4 @@
+DevOps stands for development and operations. It’s a practice that aims at merging development, quality assurance, and operations (deployment and integration) into a single, continuous set of processes.
+I think when it comes to coding and software it is imporant to extend your 
+knowlage, This course that im taking at gerogrbrown 
+has really opned my eyes into the world of software engieering
