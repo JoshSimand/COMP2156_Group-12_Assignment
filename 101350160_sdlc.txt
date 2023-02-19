@@ -1,0 +1,4 @@
+# Software Development Life Cycle
+
+In software development, it is important to mantain version controls, utilize standards,
+and adopt common practices. Have fun!
